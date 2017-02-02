@@ -1,4 +1,4 @@
-# Implementation-of-Persuasive-Cued-Click-Points
+# Implementation_of_Persuasive_Cued_Click_Points
 Research paper on the design, analysis and implementation of Persuasive Cued Click Points 
 
 INTRODUCTION TO CLICK BASED GRAPHICAL PASSWORDS
